@@ -6,7 +6,7 @@
 
 > It has 6 modules Admin, User, Reservation, Bus, Route and Feedback.
 
-> Book my bus (Bus ticket reservation system) application during the construct week at [Masai School](https://masaischool.com/). Completed the project in five days with a team of five aspiring developers.
+
 
 # Features
 
