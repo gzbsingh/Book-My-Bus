@@ -59,54 +59,68 @@
 ## **Er Diagram** 
 *Er diagram of our project*
 </br>
-![39a568c0-b77f-4ca1-b87a-72ce3eeaa7e6](https://github.com/DeependrYadav/honest-wing-5796/assets/121309012/9c8bb70a-5f68-4210-8a88-d8796f8e165c)
+![ERDigramBus](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/d679c785-e377-4888-98c3-170552a103a4)
+
 
 ## **All Modules** 
 *All modules of our project*
 </br>
-![All Modules](./images/all_controller.png)
+![all_controller](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/86db4983-c26a-4d28-859a-6624cb92f892)
 
 
 ## **Admin Home page and Module** 
 *Admin can login by using username (admin) and password (admin1234)*
 ### Admin Home page
-![Admin Panel](./images/admin_panel.png)
+![Admin Panel](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/fcf5e1b9-4b18-4da2-8bcb-797eda0abd0e)
+
+
 </br>
-### Admin Module
-![Admin Module](./images/admin_login.png)
+## **Admin Module **
+
+![admin_login](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/1e01542e-f52c-4d97-abfc-5076327b0012)
+
+
+
 </br>
 
 ## **User landing page**
-![User landing page](./images/landing_page.png)
+![User landing page](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/fcc4cfd3-6636-4b64-aa2b-a9f645b16783)
+
 
 ## **User Module**
 *Customer can signup first if not registered earlier*
 </br>
-![User Module](./images/user_controller.png)
+![User Module](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/0afd65d7-1357-4f6b-864d-fc705ce98f80)
+
 
 *Customer can login with earlier provided username and password*
 </br>
-![Login](./images/login_controller.png)
+![Login](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/d65936a5-6df0-490d-a23f-4daa71e618db)
+
 
 ## **Bus Module** 
 *Admin can add Bus by providing neccessary details*
 </br>
-![Bus Module](./images/bus_controller.png)
+![Bus Module](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/0cbc0a57-3c02-445f-9bfb-7b4f04662490)
+
 
 ## **Route Module**
 *Admin can add Route by providing neccessary details*
 </br>
-![Route Module](./images/route_controller.png)
+
+![Route_controller](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/9b86a0b1-d4aa-4b79-9189-267220abea6e)
 
 ## **Reservation Module**
 *User can book Reservation by selecting Source and destination*
 </br>
-![Reservation Module](./images/reservation_controller.png)
+
+![Reservation Controller](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/b85917c6-eaee-46fa-a7d0-3092825ab924)
 
 ## **Feedback Module**
 *User can give feedback for bus experience*
 </br>
-![Feedback Module](./images/feedback_controller.png)
+![Feedback Module](https://github.com/DeependrYadav/Book-My-Bus/assets/39863817/bca1eff1-07cb-4799-9c5f-5df9c5265745)
+
 
 # Contributor
 
