@@ -1,6 +1,6 @@
 let uuid=JSON.parse(localStorage.getItem("uuid")) || "";
 console.log(uuid)
-let baseURL = `https://honest-wing-5796-production.up.railway.app`;
+let baseURL = `https://bookmybus-backend-production.up.railway.app`;
 document.addEventListener("DOMContentLoaded", function () {
     // Add event listener to the "Logout" link
     var logoutLink = document.getElementById("logout");

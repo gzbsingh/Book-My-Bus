@@ -5,7 +5,8 @@ const download_ticket_button = document.getElementById('download-ticket-button')
 const cancel_ticket_button = document.getElementById('cancel-ticket-button');
 var fetchedDataId = null;
 
-let baseURL = `https://honest-wing-5796-production.up.railway.app`;
+
+let baseURL = `https://bookmybus-backend-production.up.railway.app`;
 
  const currUserId = JSON.parse(localStorage.getItem('uuid'));
  if(currUserId == null){

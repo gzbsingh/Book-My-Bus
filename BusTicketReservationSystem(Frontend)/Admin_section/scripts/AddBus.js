@@ -3,7 +3,7 @@ let formdata=document.querySelectorAll("#addNewBusForm");
 let i=0;
 
 let uuid=JSON.parse(localStorage.getItem("uuid")) || "";
-let baseURL = `https://honest-wing-5796-production.up.railway.app`;
+let baseURL = `https://bookmybus-backend-production.up.railway.app`;
 
 // AddBus Function to add a Bus in database
 document.getElementById("addNewBusForm").addEventListener("submit", function (event) {

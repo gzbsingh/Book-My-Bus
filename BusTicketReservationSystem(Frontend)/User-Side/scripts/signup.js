@@ -1,4 +1,5 @@
-let baseURL = `https://honest-wing-5796-production.up.railway.app`;
+
+let baseURL = `https://bookmybus-backend-production.up.railway.app`;
 //custome alert
 function openCustomAlert(message) {
     const customAlert = document.getElementById('customAlert');

@@ -1,5 +1,6 @@
 let currUserID = JSON.parse(localStorage.getItem('uuid'));
-let baseURL = `https://honest-wing-5796-production.up.railway.app`;
+
+let baseURL = `https://bookmybus-backend-production.up.railway.app`;
 if(currUserID == undefined){
     currUserID = null;
 }
